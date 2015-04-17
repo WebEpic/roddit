@@ -1,4 +1,3 @@
-
 # Still working on this integration -- need to configure Devise to work with ActionMailer.
 
 ActionMailer::Base.smtp_settings = {
